@@ -36,7 +36,7 @@ To run these projects on your local machine, follow these steps:
 3. Choose a project (e.g., calculator) and run the corresponding Python file:
 
    ```bash
-   python calculator.py
+   python simplecalc.py
    ```
 
    Note: Make sure you have Python installed on your machine.
